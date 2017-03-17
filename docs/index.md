@@ -1,5 +1,4 @@
-### Welcome to hello-world
-
+# Welcome to hello-world
 
 Testing **markdown** on first page.
 
